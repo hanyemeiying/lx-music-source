@@ -102,6 +102,6 @@ https://ghproxy.net/raw.githubusercontent.com/hanyemeiying/lx-music-source/main/
 
 ## Stargazers Over Time
 
-<a href="https://github.com/pdone/lx-music-source/tree/star-history">
-  <img alt="Star History Chart" src="https://raw.githubusercontent.com/pdone/lx-music-source/star-history/star-history.svg" />
+<a href="https://github.com/hanyemeiying/lx-music-source/tree/star-history">
+  <img alt="Star History Chart" src="https://raw.githubusercontent.com/hanyemeiying/lx-music-source/star-history/star-history.svg" />
 </a>
