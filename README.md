@@ -19,6 +19,14 @@ https://raw.githubusercontent.com/hanyemeiying/lx-music-source/main/flower/lates
 ```
 https://raw.githubusercontent.com/hanyemeiying/lx-music-source/main/lx/latest.js
 ```
+### ChangQing
+```
+https://raw.githubusercontent.com/pdone/lx-music-source/main/changqing/latest.js
+```
+### HuanYin
+```
+https://raw.githubusercontent.com/pdone/lx-music-source/main/huanyin/latest.js
+```
 ### ikun
 ```
 https://raw.githubusercontent.com/hanyemeiying/lx-music-source/main/ikun/latest.js
@@ -55,6 +63,14 @@ https://ghproxy.net/raw.githubusercontent.com/hanyemeiying/lx-music-source/main/
 ### LX
 ```
 https://ghproxy.net/raw.githubusercontent.com/hanyemeiying/lx-music-source/main/lx/latest.js
+```
+### ChangQing
+```
+https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/changqing/latest.js
+```
+### HuanYin
+```
+https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/huanyin/latest.js
 ```
 ### ikun
 ```
@@ -93,6 +109,8 @@ https://ghproxy.net/raw.githubusercontent.com/hanyemeiying/lx-music-source/main/
 - [Huibq/keep-alive](https://github.com/Huibq/keep-alive/)
 - [LX](https://www.lxmusic.cc/)
 - [ikun](https://github.com/MeoProject/lx-music-api-server)
+- ChangQing（长青SVIP音源 by 元力菌）
+- HuanYin（幻音音源 by 竹佀）
 
 ## 项目地址
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
