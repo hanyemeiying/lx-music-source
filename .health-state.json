@@ -16,15 +16,15 @@
     "last_status": "异常"
   },
   "api.huibq.com": {
-    "consecutive_failures": 16,
+    "consecutive_failures": 17,
     "last_status": "失效"
   },
   "api.ikunshare.com": {
-    "consecutive_failures": 16,
+    "consecutive_failures": 17,
     "last_status": "失效"
   },
   "api.lingchuan.com": {
-    "consecutive_failures": 16,
+    "consecutive_failures": 17,
     "last_status": "失效"
   },
   "api.music.lerd.dpdns.org": {
@@ -40,11 +40,11 @@
     "last_status": "可用"
   },
   "gc.kxwa.top": {
-    "consecutive_failures": 16,
+    "consecutive_failures": 17,
     "last_status": "失效"
   },
   "img1.kwcdn.kuwo.cn": {
-    "consecutive_failures": 16,
+    "consecutive_failures": 17,
     "last_status": "失效"
   },
   "lxmusicapi.onrender.com": {
@@ -56,7 +56,7 @@
     "last_status": "异常"
   },
   "mirror.com": {
-    "consecutive_failures": 16,
+    "consecutive_failures": 17,
     "last_status": "失效"
   },
   "mobi.kuwo.cn": {
@@ -68,7 +68,7 @@
     "last_status": "可用"
   },
   "music-dl.sayqz.com": {
-    "consecutive_failures": 16,
+    "consecutive_failures": 17,
     "last_status": "失效"
   },
   "music.haitangw.cc": {
@@ -92,7 +92,7 @@
     "last_status": "可用"
   },
   "proxy.qishui.vsaa.cn": {
-    "consecutive_failures": 16,
+    "consecutive_failures": 17,
     "last_status": "失效"
   },
   "yinyue.haitangw.net": {
