@@ -23,6 +23,7 @@ https://ghproxy.net/raw.githubusercontent.com/hanyemeiying/lx-music-source/main/
 
 
 
+
 ## 音源可用性
 
 <!-- HEALTH-CHECK:START -->
@@ -39,5 +40,5 @@ https://ghproxy.net/raw.githubusercontent.com/hanyemeiying/lx-music-source/main/
 | [grass](#grass) | 🔴 失效 |
 | [ikun](#ikun) | 🔴 失效 |
 
-检测时间：2026-11-01 04:21（北京时间）
+检测时间：2026-11-02 04:53（北京时间）
 <!-- HEALTH-CHECK:END -->
