@@ -33,6 +33,7 @@ https://ghproxy.net/raw.githubusercontent.com/hanyemeiying/lx-music-source/main/
 
 
 
+
 ## 音源可用性
 
 <!-- HEALTH-CHECK:START -->
@@ -41,13 +42,13 @@ https://ghproxy.net/raw.githubusercontent.com/hanyemeiying/lx-music-source/main/
 | [changqing](#changqing) | 🟢 可用 |
 | [huanyin](#huanyin) | 🟢 可用 |
 | [huibq](#huibq) | 🟢 可用 |
-| [lx](#lx) | 🟢 可用 |
 | [qdy](#qdy) | 🟢 可用 |
 | [xinghai](#xinghai) | 🟢 可用 |
 | [juhe](#juhe) | 🟡 异常 |
+| [lx](#lx) | 🟡 异常 |
 | [flower](#flower) | 🔴 失效 |
 | [grass](#grass) | 🔴 失效 |
 | [ikun](#ikun) | 🔴 失效 |
 
-检测时间：2026-11-11 06:00（北京时间）
+检测时间：2026-11-12 07:11（北京时间）
 <!-- HEALTH-CHECK:END -->
